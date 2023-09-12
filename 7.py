@@ -1,19 +1,3 @@
-#백준2번
-# a, b = map(int, input().split())
-# print(a+b)
-
-#백준3번
-# a, b = map(int, input().split())
-# print(a - b)
-
-#백준6번
-# a, b = map(int, input().split())
-# print(a + b)
-# print(a - b)
-# print(a * b)
-# print(a // b)
-# print(a % b)
-
 #백준7번
 def CheckDuplicate(id):
     if id.isalpha():
